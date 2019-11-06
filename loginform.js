@@ -7,10 +7,7 @@ class App extends React.Component
         super(props)
         this.state={
             username='',
-            password='',
-            email='',
-            phonenumber='',
-            address=''
+            password=''
         }
         render()
         {
